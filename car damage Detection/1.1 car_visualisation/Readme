@@ -1,1 +1,7 @@
-
+So first of all i mounted all drives and imported all required libraries.
+I loaded read the file and converted it as appended dictionaries.
+Next I plotted all the points in dictionaries.
+After that I plotted rectangular patches by using maximum and minimum x and y values of closed 2D curves which we plotted by using .json files.
+The labels of all rectangular patches can be found in dictionary itself under polylabels.
+Afterwards i have just masked the input impage with above 2 plots (closed 2D curves which we plotted by using .json files and rectangula patches)
+Thank You!
